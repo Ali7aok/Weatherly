@@ -25,7 +25,33 @@ The design is **inspired by [this Dribbble concept](https://dribbble.com/shots/2
 
 ---
 
-## 🚀 Getting Started
+---
+
+## ⚙️ Configure Your Weather API Key
+
+To use this app, you need a Weather API key.  
+
+1. Open the file:
+
+```text
+lib/services/weather_service.dart
+```
+
+2. Find the line:
+
+```dart
+final String apiKey = "69965daaa10efcf097fced6e67995a0b";
+```
+
+3. Replace the value with your own API key. For example:
+
+```dart
+final String apiKey = "YOUR_OWN_API_KEY_HERE";
+```
+
+You can get a free API key from a weather API provider such as [OpenWeatherMap](https://openweathermap.org/api).
+
+---
 
 ### Prerequisites
 - [Flutter SDK](https://flutter.dev/docs/get-started/install)  
