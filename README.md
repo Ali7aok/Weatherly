@@ -1,16 +1,41 @@
-# weatherly
+# Weatherly ☀️🌧️
 
-A new Flutter project.
+A modern Flutter weather app that shows real-time weather information with a clean and elegant UI.  
+The design is **inspired by [this Dribbble concept](https://dribbble.com/shots/25320809-Weather-App-Design)**.  
 
-## Getting Started
+---
 
-This project is a starting point for a Flutter application.
+## ✨ Features
+- Current weather with temperature & condition.
+- Hourly forecast in a horizontally scrollable view.
+- Glassmorphism-inspired UI (blurred cards, rounded edges).
+- Clean typography using a custom font for outlined text.
+- Responsive for mobile.
 
-A few resources to get you started if this is your first Flutter project:
+---
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+## 📸 Screenshots
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+<div style="display: flex; overflow-x: auto;">
+  <img src="https://github.com/user-attachments/assets/598e2057-b214-4c7c-b9df-ed8ca8228462" width="250" />
+  <img src="https://github.com/user-attachments/assets/6d027c1f-d563-4983-8392-5f16f690ffc3" width="250" />
+
+</div>
+
+
+---
+
+## 🚀 Getting Started
+
+### Prerequisites
+- [Flutter SDK](https://flutter.dev/docs/get-started/install)  
+- Weather API key (e.g., [OpenWeather](https://openweathermap.org/))
+
+### Installation
+1. Clone this repository:
+   ```bash
+   git clone https://github.com/<your-username>/weatherly-app.git
+   cd weatherly-app
+
+
+Created by Ali Nofal (e.alinofal@gmail.com)
