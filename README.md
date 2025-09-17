@@ -40,7 +40,7 @@ lib/services/weather_service.dart
 2. Find the line:
 
 ```dart
-final String apiKey = "69965daaa10efcf097fced6e67995a0b";
+final String apiKey = "-------YOUR_API_KEY------";
 ```
 
 3. Replace the value with your own API key. For example:
